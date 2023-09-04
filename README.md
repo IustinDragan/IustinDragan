@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Endava as Automation Tester <img src = "https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="100"> 
 - 🌱 I’m currently learning everything about Automation Testing and .Net Development
-- 👯 I’m looking to collaborate on .Net projects, as Automation Tester but I'm also interested to work on development side.
+- 👯 I’m looking to develop my skills as Automation Tester on .Net projects but I'm also interested to work on development side.
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: I like to learn new things, I like to challenge myself and I really like pizza 🍕
 <br>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
       <td> 
         <h2 align="center">Now i'm working with: </h2>
         <div align="center">
+          <img src ="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40">
           <img src = "https://media.trustradius.com/product-logos/Op/vu/688CFEVSSPPH.PNG" width="40">
           <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1024px-Visual_Studio_Icon_2022.svg.png" width="40">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/gitlab.png" width ="40">
@@ -51,6 +52,7 @@ Here are some ideas to get you started:
         <h2 align="center">Small knowledge about: </h2> 
         <div align="center">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/mongodb.png" width="40">
+          <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/azure.png" width="40">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/sqlserver.png" width ="40">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/java.png" width="40">
         </div>
