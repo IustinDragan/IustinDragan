@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <br>
  <body>
-  <table>
+  <table align="center">
     <tr>
       <td> 
         <h2 align="center">Now i'm working with: </h2>
