@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td> 
-        <h2>Now i'm working with: </h2>
+        <h2 align="center">Now i'm working with: </h2>
         <div align="center">
           <img src = "https://media.trustradius.com/product-logos/Op/vu/688CFEVSSPPH.PNG" width="40">
           <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1024px-Visual_Studio_Icon_2022.svg.png" width="40">
@@ -41,14 +41,14 @@ Here are some ideas to get you started:
         </div>
       </td>
       <td> 
-        <h2>I worked with: </h2> 
+        <h2 align="center">I worked with: </h2> 
         <div align="center">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/mysql.png" width="40">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/vscode.png" width="40">
         </div>
       </td>
       <td> 
-        <h2>Small knowledge about: </h2> 
+        <h2 align="center">Small knowledge about: </h2> 
         <div align="center">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/mongodb.png" width="40">
           <img src = "https://github.com/nuyonu/nuyonu/raw/master/assets/images/sqlserver.png" width ="40">
