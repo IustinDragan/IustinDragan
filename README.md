@@ -1,4 +1,4 @@
-### Hi there, I'm Iustin Dragan 👋
+# Hi there, I'm Iustin Dragan 👋
 <a href ="">
   <img src = "https://komarev.com/ghpvc/?username=IustinDragan">
 </a>
