@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Connect with me:
 
-<a href="https://www.linkedin.com/in/iustin-dragan/">
+<a href="https://www.linkedin.com/in/iustin-dragan/" >
   <img src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" alt="LinkedIn" width="90">
 </a>
 
