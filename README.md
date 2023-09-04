@@ -2,7 +2,9 @@
 <a href ="">
   <img src = "https://komarev.com/ghpvc/?username=IustinDragan">
 </a>
-
+<a href ="">
+  <img src = "https://img.shields.io/github/followers/IustinDragan?style=social">
+</a>
 <!--
 **IustinDragan/IustinDragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
